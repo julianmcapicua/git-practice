@@ -1,1 +1,1 @@
-This project was created to practice on git commans
+This project was created to practice on git commands
